@@ -13,4 +13,4 @@
 
  - source001 [https://blogs.bing.com/feed](https://blogs.bing.com/feed) -> [blogs.bing.com.xml](rss/blogs.bing.com.xml)
  - source002 [https://openai.com/blog](https://openai.com/blog) -> [openai.com.xml](rss/openai.com.xml)
- - source003 [https://powerbi.microsoft.com/zh-cn/blog/](https://powerbi.microsoft.com/zh-cn/blog/) -> [PowerBI_blog.xml](rss/PowerBI_blog.xml)
+ - source003 [https://powerbi.microsoft.com/zh-cn/blog/feed/](https://powerbi.microsoft.com/zh-cn/blog/feed/) -> [PowerBI_blog.xml](rss/PowerBI_blog.xml)
